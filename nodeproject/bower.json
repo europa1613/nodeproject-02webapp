@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-02webapps",
+  "description": "NodeJS 02 WebApps",
+  "main": "app.js",
+  "authors": [
+    "Prometheus"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
